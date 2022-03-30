@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Python, C#, VBA, Kotlin, finances, crypto 
 
-- 🌱 I’m currently learning Kotlin and software development in general
+- 🌱 I’m currently learning Kotlin (as a new PL) and industrial software development 
 
 - 📫 How to reach me -> tg @TheOkayest
 
