@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OhMyCode13
 
-- 👀 I’m interested in Python, C#, VBA, Kotlin, finances, crypto 
+- 👀 I’m interested in Python, C#, VBA, Kotlin, finances, data, Project management
 
 - 🌱 I’m currently learning Kotlin (as a new PL) and industrial software development 
 
